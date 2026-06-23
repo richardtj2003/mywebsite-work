@@ -8,4 +8,15 @@ img {
    max-width: 250px;
    height: auto;
 }
+.gallery img {
+   width: 250px;
+   height: 250px;
+   object-fit: cover;
+}
+.gallery {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content:center;
+   gap: 20px;
+}
    
