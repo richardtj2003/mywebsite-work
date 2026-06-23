@@ -19,4 +19,13 @@ img {
    justify-content:center;
    gap: 20px;
 }
+.whatsapp-btn {
+   background-color: #25D366;
+   color: white;
+   border: none;
+   padding: 12px 24px;
+   border-radius: 8px;
+   font-size: 18px;
+   cursor: pointer;
+}
    
